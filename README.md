@@ -11,7 +11,7 @@ Desafio de Projeto - CSS Flexbox
 
 ### Captura de tela
 
-<img src="/site.png" alt style="max-width: 100%">
+<img src="/site.PNG" alt style="max-width: 100%">
 
 
 ### Links
