@@ -7,3 +7,25 @@
 ## Bootcamp - Spread Fullstack Developer
 
 Desafio de Projeto - CSS Flexbox
+
+
+### Captura de tela
+
+<img src="/site.png" alt style="max-width: 100%">
+
+
+### Links
+
+- URL da solução: [GitHub](https://github.com/AIemao/Dio-CSS-flexbox)
+
+
+
+### Construído com
+
+- Marcação HTML5 semântica
+- Propriedades personalizadas de CSS
+
+
+## Autor
+
+- Site - [Celio Junior](https://www.linkedin.com/in/celio-junior-152529193/)
